@@ -77,7 +77,7 @@ while True:
 - [Documentação Python](https://www.python.org/doc/)
 
 <h5 align="center">
-<img src="https://hermes.digitalinnovation.one/assets/diome/logo-full.svg" height="20" tittle="nome imagem"/> 
+<img src="https://hermes.digitalinnovation.one/assets/diome/logo-full.svg" height="40" tittle="nome imagem"/> 
 
 <hr>
 
