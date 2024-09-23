@@ -1,3 +1,6 @@
+import textwrap
+
+def menu():
 menu = """
 
 [d] Depositar
